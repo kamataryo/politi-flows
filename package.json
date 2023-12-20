@@ -1,0 +1,9 @@
+{
+  "name": "politi-flows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kamataryo/politi-flows.git",
+  "author": "kamataryo <6292312+kamataryo@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
